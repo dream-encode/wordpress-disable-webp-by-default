@@ -17,8 +17,6 @@
  * Text Domain: disable-webp-by-default
  * Requires PHP: 7.0
  * Requires at least: 5.8
- * GitHub Plugin URI: https://github.com/dream-encode/disable-webp-by-default
- * Primary Branch: main
  */
 
 namespace DreamEncode;
