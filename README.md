@@ -6,7 +6,7 @@
 * License: MIT
 * Requires PHP: 7.0
 * Tested up to: 5.9.2
-* Stable Tag: trunk
+* Stable Tag: 0.1.0
 
 A small plugin to disable WebP image creation on image upload by default.
 
